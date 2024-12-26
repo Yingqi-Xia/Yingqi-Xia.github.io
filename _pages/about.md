@@ -13,7 +13,7 @@ redirect_from:
 - Hi! I am currently working as a research assistant at Huazhong University of Science and Technology, supervised by [Prof. Qing Yang](https://scholar.google.com/citations?user=dRMbTCMAAAAJ&hl=en) and [Prof. Shusong Ba](https://www.hkexgroup.com/Media-Centre/Corporate-Events/RMB-FIC-Conference/Past-Events/RMB-FIC-Conference-2019/Speakers/Hong-Kong/Prof-Shusong-BA?sc_lang=en). Prior to this, I got my master’s degree in Economics from the Faculty of Business and Economics, the University of Hong Kong. I got dual bachelor’s degrees in Statistics and Economics from Beijing Institute of Technology.
 - My research interests are energy economics and environmental economics. I am also interested in the applications of machine learning in these fields.
 - I am also the co-founder of [Hong Kong aiKnow Limited](https://aiknowhk.com), a startup that provides AI solutions for the manufacturing industry. Our company is supported by the Hong Kong Science and Technology Park and the University of Hong Kong.
-- I can be contacted at xyq1212@connect.hku.hk.
+- I can be contacted at [xyq1212@connect.hku.hk](xyq1212@connect.hku.hk).
 
 #  News
 - *2024.01*: Our paper "A novel carbon emission estimation method based on electricity‑carbon nexus and non-intrusive load monitoring" has been accepted by Applied Energy.
