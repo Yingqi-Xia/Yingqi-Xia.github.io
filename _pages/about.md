@@ -23,7 +23,7 @@ redirect_from:
 # Working Paper
 - **Xia, Y.**, Wang, Y., Sun, G., Zhang, Y., Yang, Q., Lu, Z., ... & Ba, S. [An interpretable mid-term carbon price prediction method based on multi-markets Temporal Fusion Transformer.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990409) Available at SSRN 4990409.
 
-# Work in Prograss
+# Work in Progress
 - Could CBAM become a new point of conflict between the Global North and South? (With Zishuo Xu and Yanfeng Wang)
 - Spillover effects of pilot carbon trading programs in developing countries: Evidence from China's pilot carbon markets.
 
