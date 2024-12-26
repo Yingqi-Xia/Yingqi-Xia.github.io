@@ -22,7 +22,7 @@ My research interests lie in energy economics and environmental economics. I am 
 I am also the co-founder of [Hong Kong aiKnow Limited](https://aiknowhk.com), a startup that provides AI solutions for the manufacturing industry. Our company is supported by the Hong Kong Science Park and the University of Hong Kong.
 
 #  News
-- *2024.1*: Our paper "A novel carbon emission estimation method based on electricity‑carbon nexus and non-intrusive load monitoring" has been accepted by Applied Energy.
+- *2024.01*: Our paper "A novel carbon emission estimation method based on electricity‑carbon nexus and non-intrusive load monitoring" has been accepted by Applied Energy.
 
 # Publication
 - **Xia, Y.**, Sun, G., Wang, Y., Yang, Q., Wang, Q., & Ba, S. (2024). [A novel carbon emission estimation method based on electricity‑carbon nexus and non-intrusive load monitoring.](https://doi.org/10.1016/j.apenergy.2024.122773) Applied Energy, 360, 122773.
