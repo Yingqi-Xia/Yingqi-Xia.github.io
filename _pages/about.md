@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-- Hi! I am a Ph.D. student in Economics at School of Management and Economics, The Chinese University of Hong Kong, Shenzhen. Prior to this, I was a research assistant at Huazhong University of Science and Technology, supervised by [Prof. Qing Yang](https://scholar.google.com/citations?user=dRMbTCMAAAAJ&hl=en) and [Prof. Shusong Ba](https://www.hkexgroup.com/Media-Centre/Corporate-Events/RMB-FIC-Conference/Past-Events/RMB-FIC-Conference-2019/Speakers/Hong-Kong/Prof-Shusong-BA?sc_lang=en). I have my M.Econ. in Economics from the University of Hong Kong and B.S. in Statistics and B.Econ. in Economics from Beijing Institute of Technology.
+- Hi! I am a Ph.D. student in Economics at School of Management and Economics, The Chinese University of Hong Kong, Shenzhen. Prior to this, I was a research assistant at Huazhong University of Science and Technology, supervised by [Prof. Qing Yang](https://scholar.google.com/citations?user=dRMbTCMAAAAJ&hl=en) and [Prof. Shusong Ba](https://www.hkubs.hku.hk/people/shusong-ba/). I have my M.Econ. in Economics from the University of Hong Kong and B.S. in Statistics and B.Econ. in Economics from Beijing Institute of Technology.
 - My research interests are environmental economics and energy economics. I am also interested in the applications of machine learning in these fields.
 - I can be contacted at [xyq1212@connect.hku.hk](xyq1212@connect.hku.hk).
 - Here is my [CV](./CV.pdf).
