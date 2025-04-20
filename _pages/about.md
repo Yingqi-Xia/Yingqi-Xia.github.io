@@ -16,13 +16,15 @@ redirect_from:
 - Here is my [CV](./CV.pdf).
 
 # Publication
-- **Xia, Y.**, Sun, G., Wang, Y., Yang, Q., Wang, Q., & Ba, S. (2024). [A novel carbon emission estimation method based on electricity‑carbon nexus and non-intrusive load monitoring.](https://doi.org/10.1016/j.apenergy.2024.122773) *Applied Energy*, 360, 122773.
+For publications in science Journals, <sup>#</sup> indicates first author(s), <sup>*</sup> indicates corresponding author(s). 
+- **Xia, Y.**<sup>#</sup>, Sun, G., Wang, Y., Yang, Q.<sup>*</sup>, Wang, Q.<sup>*</sup>, & Ba, S<sup>*</sup>. (2024). [A novel carbon emission estimation method based on electricity‑carbon nexus and non-intrusive load monitoring.](https://doi.org/10.1016/j.apenergy.2024.122773) *Applied Energy*, 360, 122773.
 
 # Working Paper
 - **Xia, Y.**, Wang, Y., Sun, G., Zhang, Y., Yang, Q., Lu, Z., ... & Ba, S. [An interpretable mid-term carbon price prediction method based on multi-markets Temporal Fusion Transformer.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990409) *Available at SSRN 4990409*.
 
 # Work in Progress
 - Impact of different sector coverage options for China's carbon market under the context of worldwide carbon tariffs: Based on Global Trading Analysis-Energy Model (with Yanfeng Wang and Qing Yang)
+- The impact of government subsidies on corporate ambidextrous innovation (with Binpeng Tang and Chenxin Liu)
 - Spillover effects of pilot carbon trading programs in developing countries: Evidence from China's pilot carbon markets
 
 # Educations
