@@ -23,9 +23,8 @@ For publications in science Journals, <sup>#</sup> indicates first author(s), <s
 - **Xia, Y.**, Wang, Y., Sun, G., Zhang, Y., Yang, Q., Lu, Z., ... & Ba, S. [An interpretable mid-term carbon price prediction method based on multi-markets Temporal Fusion Transformer.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990409) *Available at SSRN 4990409*.
 
 # Work in Progress
-- Impact of different sector coverage options for China's carbon market under the context of worldwide carbon tariffs: Based on Global Trading Analysis-Energy Model (with Yanfeng Wang and Qing Yang)
+- Impact of different sector coverage options for China's carbon market under the context of worldwide carbon tariffs: Based on Global Trading Analysis-Energy Model (with Qing Yang et al.)
 - The impact of government subsidies on corporate ambidextrous innovation (with Binpeng Tang and Chenxin Liu)
-- Spillover effects of pilot carbon trading programs in developing countries: Evidence from China's pilot carbon markets
 
 # Educations
 - *2022.08 - 2023.12*, M.Econ. in Economics, Faculty of Business and Economics, the University of Hong Kong.
