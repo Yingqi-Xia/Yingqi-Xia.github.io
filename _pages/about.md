@@ -19,12 +19,15 @@ For publications in science journals, <sup>#</sup> indicates first author(s), <s
 - **Xia, Y.**<sup>#</sup>, Sun, G., Wang, Y., Yang, Q.<sup>&#42;</sup>, Wang, Q.<sup>&#42;</sup>, & Ba, S.<sup>&#42;</sup> (2024). [A novel carbon emission estimation method based on electricity‑carbon nexus and non-intrusive load monitoring.](https://doi.org/10.1016/j.apenergy.2024.122773) *Applied Energy*, 360, 122773.
 
 # Working Papers
+- Coopetitive governance: how Co-CEO structure curbs insider trading (with Chenxin Liu, Dongdong Huang and Lin Luo)
 - **Xia, Y.**, Wang, Y., Sun, G., Zhang, Y., Yang, Q., Lu, Z., ... & Ba, S. [An interpretable mid-term carbon price prediction method based on multi-markets Temporal Fusion Transformer.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990409) *Available at SSRN 4990409*.
 - Impact of different sector coverage options for China's carbon market under the context of worldwide carbon tariffs: Based on Global Trading Analysis-Energy Model (with Qing Yang et al.)
-- Coopetitive governance: how Co-CEO structure curbs insider trading (with Chenxin Liu, Dongdong Huang and Lin Luo)
 
 # Work in Progress
-- The impact of government subsidies on corporate ambidextrous innovation (with Binpeng Tang and Chenxin Liu)
+- CEO humility and firm reputation (with Chenxin Liu, Liangding Jia and Amy Y. OU)
+- The impact of government subsidies on corporate innovation (with Binpeng Tang and Chenxin Liu)
+- Impression management (with Junxi Miao and Chenxin Liu)
+- Influence of state capital injection into private enterprises (with Chenxin Liu and Lin Luo)
 
 # Educations
 - *2022.08 - 2023.12*, M.Econ. in Economics, Faculty of Business and Economics, the University of Hong Kong.
