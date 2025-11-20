@@ -20,7 +20,7 @@ For publications in science journals, <sup>#</sup> indicates first author(s), <s
 
 # Working Paper
 - Coopetitive Governance Internally: How Co-CEO Structure Curbs Insider Trading (with Chenxin Liu, Dongdong Huang and Lin Luo)
-- Presentations: 2025 Organization Science PDW.
+<span style="display: block; margin-left: 20px; font-size: 0.9em; color: #666;">Presentations: 2025 Organization Science PDW.</span>
 
 # Educations
 - *2022.08 - 2023.12*, M.Econ. in Economics, Faculty of Business and Economics, the University of Hong Kong.
