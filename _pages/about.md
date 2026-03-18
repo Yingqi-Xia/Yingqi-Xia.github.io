@@ -15,12 +15,10 @@ redirect_from:
 - I can be contacted at [yingqixia@link.cuhk.edu.cn](yingqixia@link.cuhk.edu.cn).
 
 # Publication
-For publications in science journals, <sup>#</sup> indicates first author(s), <sup>*</sup> indicates corresponding author(s). 
-- **Xia, Y.**<sup>#</sup>, Sun, G., Wang, Y., Yang, Q.<sup>&#42;</sup>, Wang, Q.<sup>&#42;</sup>, & Ba, S.<sup>&#42;</sup> (2024). [A novel carbon emission estimation method based on electricity‑carbon nexus and non-intrusive load monitoring.](https://doi.org/10.1016/j.apenergy.2024.122773) *Applied Energy*, 360, 122773.
+- **Xia, Y.**, Sun, G., Wang, Y., Yang, Q., Wang, Q., & Ba, S. (2024). [A novel carbon emission estimation method based on electricity‑carbon nexus and non-intrusive load monitoring.](https://doi.org/10.1016/j.apenergy.2024.122773) *Applied Energy*, 360, 122773.
 
 # Working Paper
 - Coopetitive Governance Internally: How Co-CEO Structure Curbs Insider Trading (with Chenxin Liu, Dongdong Huang and Lin Luo)
-<span style="display: block; margin-left: 20px; font-size: 0.9em; color: #666;">Presentations: 2025 Organization Science PDW.</span>
 
 # Educations
 - *2022.08 - 2023.12*, M.Econ. in Economics, Faculty of Business and Economics, the University of Hong Kong.
